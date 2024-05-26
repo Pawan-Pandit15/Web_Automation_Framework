@@ -40,4 +40,3 @@ src="https://github.com/PramodDutta/PyWebAutomation0x/assets/1409610/b339baf7-ae
 
 
 
-pytest -n auto tests/vwoLoginTests/pom/test_*
